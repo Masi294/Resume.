@@ -1,0 +1,77 @@
+
+h1{
+
+   font-size:40px;
+   font-style: oblique;
+}
+h2{   font-size:17px; }
+
+
+
+#border{
+margin-right:auto;
+border-top:4px solid orange;
+border-bottom: 4px solid orange;
+padding:68px;
+}
+
+
+
+
+
+#nilofar{
+  color:blue;
+}
+#pic1{
+  width:150px;
+  height:200px;
+}
+#vision{
+  margin:-170px 50px 50px 170px;
+  font-family:Tahoma;
+  font-size: 20px;
+}
+
+
+
+
+h3{
+  text-decoration:underline;
+  font-style:normal;
+  margin: 40px 2px 2px 2px;
+  padding: 18px
+}
+#year{
+  margin:20px 55px 10px 40px;
+}
+#line1{
+  border-top: 4px solid orange;
+  width: 760px;
+}
+
+
+
+.chart{
+          width: 400px;
+          height: 400px;
+          position: absolute;
+          left: 410px;
+          top: 620px;
+}
+
+.a{
+  position: absolute;
+  font-family: cursive;
+  left: 530px;
+  top: 40px;
+}
+
+
+
+.skill{
+  font-style:normal;
+  text-decoration: underline;
+  position: absolute;
+  left: 480px;
+  top: 571px;
+}
